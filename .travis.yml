@@ -17,5 +17,4 @@ deploy:
   local-dir:dist/
   target-branch:gh-pages
   commit_message:"Deploy Release"
-  on:
-    branch: master
+  on:branch: master
